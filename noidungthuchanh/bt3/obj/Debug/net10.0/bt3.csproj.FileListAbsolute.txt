@@ -1,0 +1,14 @@
+C:\Users\TRUNG DUY\BaiTapThucHanh6\noidungthuchanh\bt3\bin\Debug\net10.0\bt3.exe
+C:\Users\TRUNG DUY\BaiTapThucHanh6\noidungthuchanh\bt3\bin\Debug\net10.0\bt3.deps.json
+C:\Users\TRUNG DUY\BaiTapThucHanh6\noidungthuchanh\bt3\bin\Debug\net10.0\bt3.runtimeconfig.json
+C:\Users\TRUNG DUY\BaiTapThucHanh6\noidungthuchanh\bt3\bin\Debug\net10.0\bt3.dll
+C:\Users\TRUNG DUY\BaiTapThucHanh6\noidungthuchanh\bt3\bin\Debug\net10.0\bt3.pdb
+C:\Users\TRUNG DUY\BaiTapThucHanh6\noidungthuchanh\bt3\obj\Debug\net10.0\bt3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRUNG DUY\BaiTapThucHanh6\noidungthuchanh\bt3\obj\Debug\net10.0\bt3.AssemblyInfoInputs.cache
+C:\Users\TRUNG DUY\BaiTapThucHanh6\noidungthuchanh\bt3\obj\Debug\net10.0\bt3.AssemblyInfo.cs
+C:\Users\TRUNG DUY\BaiTapThucHanh6\noidungthuchanh\bt3\obj\Debug\net10.0\bt3.csproj.CoreCompileInputs.cache
+C:\Users\TRUNG DUY\BaiTapThucHanh6\noidungthuchanh\bt3\obj\Debug\net10.0\bt3.dll
+C:\Users\TRUNG DUY\BaiTapThucHanh6\noidungthuchanh\bt3\obj\Debug\net10.0\refint\bt3.dll
+C:\Users\TRUNG DUY\BaiTapThucHanh6\noidungthuchanh\bt3\obj\Debug\net10.0\bt3.pdb
+C:\Users\TRUNG DUY\BaiTapThucHanh6\noidungthuchanh\bt3\obj\Debug\net10.0\bt3.genruntimeconfig.cache
+C:\Users\TRUNG DUY\BaiTapThucHanh6\noidungthuchanh\bt3\obj\Debug\net10.0\ref\bt3.dll

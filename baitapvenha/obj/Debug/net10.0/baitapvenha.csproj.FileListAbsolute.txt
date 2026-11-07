@@ -1,0 +1,14 @@
+C:\Users\TRUNG DUY\BaiTapThucHanh6\baitapvenha\bin\Debug\net10.0\baitapvenha.exe
+C:\Users\TRUNG DUY\BaiTapThucHanh6\baitapvenha\bin\Debug\net10.0\baitapvenha.deps.json
+C:\Users\TRUNG DUY\BaiTapThucHanh6\baitapvenha\bin\Debug\net10.0\baitapvenha.runtimeconfig.json
+C:\Users\TRUNG DUY\BaiTapThucHanh6\baitapvenha\bin\Debug\net10.0\baitapvenha.dll
+C:\Users\TRUNG DUY\BaiTapThucHanh6\baitapvenha\bin\Debug\net10.0\baitapvenha.pdb
+C:\Users\TRUNG DUY\BaiTapThucHanh6\baitapvenha\obj\Debug\net10.0\baitapvenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRUNG DUY\BaiTapThucHanh6\baitapvenha\obj\Debug\net10.0\baitapvenha.AssemblyInfoInputs.cache
+C:\Users\TRUNG DUY\BaiTapThucHanh6\baitapvenha\obj\Debug\net10.0\baitapvenha.AssemblyInfo.cs
+C:\Users\TRUNG DUY\BaiTapThucHanh6\baitapvenha\obj\Debug\net10.0\baitapvenha.csproj.CoreCompileInputs.cache
+C:\Users\TRUNG DUY\BaiTapThucHanh6\baitapvenha\obj\Debug\net10.0\baitapvenha.dll
+C:\Users\TRUNG DUY\BaiTapThucHanh6\baitapvenha\obj\Debug\net10.0\refint\baitapvenha.dll
+C:\Users\TRUNG DUY\BaiTapThucHanh6\baitapvenha\obj\Debug\net10.0\baitapvenha.pdb
+C:\Users\TRUNG DUY\BaiTapThucHanh6\baitapvenha\obj\Debug\net10.0\baitapvenha.genruntimeconfig.cache
+C:\Users\TRUNG DUY\BaiTapThucHanh6\baitapvenha\obj\Debug\net10.0\ref\baitapvenha.dll
